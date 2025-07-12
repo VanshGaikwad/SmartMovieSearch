@@ -3,7 +3,7 @@
 A sleek and responsive web application that allows users to search for movies in real-time using the TMDB API. Built with React and designed for a clean, engaging user experience.
 
 ## 🌐 Live Demo
-[Click here to try it out!](https://your-deployed-link.com)
+[Click here to try it out!](https://precious-lamington-05bd75.netlify.app/)
 
 ## 🚀 Features
 - 🔍 Instant movie search with real-time API results
